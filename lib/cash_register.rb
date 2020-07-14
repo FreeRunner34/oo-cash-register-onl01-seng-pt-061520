@@ -22,3 +22,9 @@ class CashRegister
     end
   
   def void_last_transaction
+     end 
+  
+end 
+
+tester = CashRegister.new 
+tester.add_item(4, "carrots", 4)
