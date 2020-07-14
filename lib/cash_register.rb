@@ -16,3 +16,6 @@ class CashRegister
     self.total = cost * number
 
   def apply_discount
+    end 
+  
+  def items 
