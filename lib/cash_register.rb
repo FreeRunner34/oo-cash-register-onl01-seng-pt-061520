@@ -1,6 +1,8 @@
 class CashRegister
 
-attr_accessor :new
+attr_accessor :new :total
 
-def new 
+def initialize 
+  
+  
 end 
