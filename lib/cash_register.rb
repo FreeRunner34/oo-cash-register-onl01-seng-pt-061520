@@ -1,6 +1,6 @@
 class CashRegister
 
-attr_accessor
+attr_accessor :new
 
 def new 
 end 
